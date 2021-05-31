@@ -1,0 +1,5 @@
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things.

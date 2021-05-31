@@ -3,3 +3,22 @@
     color: green;
 }
 
+
+
+.highlight
+{
+    background-color: yellow;
+}
+
+.error
+{
+    background-color: red;
+}
+
+#wpm
+{
+    font-weight: bold;
+    font-size: 16;
+
+}
+
