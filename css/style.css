@@ -3,7 +3,46 @@
     color: green;
 }
 
+h1 {
+    text-align: center;
+    font-size:35px;
+    margin: auto;
+    padding: 30px;
+}
 
+p {
+    margin: auto;
+}
+
+#start-btn {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+}
+.content{
+    max-width: 800px;
+    margin: auto;
+}
+
+.text-content
+{
+    padding: 15px;
+    font-size: 25px; 
+}
+
+#typing-content {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.status-content
+{
+    margin: 20px;
+    font-size: 25px;
+}
 
 .highlight
 {
@@ -18,7 +57,7 @@
 #wpm
 {
     font-weight: bold;
-    font-size: 16;
-
+    color: green;
+    font-size: 30px;
 }
 

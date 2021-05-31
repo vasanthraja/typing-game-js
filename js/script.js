@@ -52,7 +52,7 @@ typingContent.addEventListener("input", () => {
         let typedTimeInSeconds = (completedTime - typingStartTime) / 1000 ;
         let pwm = selectedQuote.length * 60 / (4.7 * typedTimeInSeconds);
         pwm = pwm.toFixed(2);
-        statusEle.innerHTML = `Congratulations!!!! You took ${typedTimeInSeconds} seconds to complete. This is equal to WPM <span id="wpm"> ${pwm}</span>`;
+        statusEle.innerHTML = `Congratulations!!!! You took ${typedTimeInSeconds} seconds to complete. This is equivalent to WPM <span id="wpm"> ${pwm}</span>`;
         textContent.getElementsByTagName('span')[currentWord].className = '';
     }
     else if (typedWord.endsWith(' ') && typedWord.trim() == words[currentWord].trim())
