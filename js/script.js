@@ -100,7 +100,7 @@ startBtn.addEventListener("click", ()=> {
 
     spannedWords  = words.map(word => `<span>${word} </span>`)
     textContent.innerHTML = spannedWords.join(' ');
-    console.log(spannedWords);
+    //console.log(spannedWords);
     textContent.childNodes[currentWord].className = 'highlight';
     typingContent.focus();
     typingStartTime = new Date();
@@ -113,10 +113,10 @@ typingContent.addEventListener("input", () => {
     let typedWord = typingContent.value;
     if (currentWord == words.length - 1 && typedWord.trim() == words[currentWord])
     {
+        let completedTime = new Date();
         typingContent.value = '';
         typingContent.disabled = true;
-        console.log(`Success!!! currentWord ${currentWord}: words length : ${words.length}`);
-        let completedTime = new Date();
+        //console.log(`Success!!! currentWord ${currentWord}: words length : ${words.length}`);
         let typedTimeInSeconds = (completedTime - typingStartTime) / 1000 ;
         let pwm = selectedQuote.length * 60 / (4.7 * typedTimeInSeconds);
         pwm = pwm.toFixed(2);
