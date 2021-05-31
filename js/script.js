@@ -8,7 +8,7 @@ let quotes = ["Fools ignore complexity. Pragmatists suffer it. Some can avoid it
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler",
 "The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.",
-"“I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck",
+"I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck",
 "Truth can only be found in one place: the code. - Robert C.Martin",
 "The most important property of a program is whether it accomplishes the intention of its user.",
 "Remember that code is really the language in which we ultimately express the requirements. We may create languages that are closer to the requirements. We may create tools that help us parse and assemble those requirements into formal structures. But we will never eliminate necessary precision—so there will always be code.",
