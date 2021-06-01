@@ -6,9 +6,10 @@
 h1 {
     text-align: center;
     font-size:35px;
-    margin: auto;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 p {
@@ -50,12 +51,12 @@ p {
 
 .highlight
 {
-    background-color: yellow;
+    background-color: rgb(238, 238, 75);
 }
 
 .error
 {
-    background-color: red;
+    background-color: rgb(240, 137, 137);
 }
 
 #wpm
