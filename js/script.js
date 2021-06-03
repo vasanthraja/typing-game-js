@@ -64,6 +64,7 @@ let quotes = ["Fools ignore complexity. Pragmatists suffer it. Some can avoid it
 "Trying to improve software quality by increasing the amount of testing is like trying to lose weight by weighing yourself more often. What you eat before you step onto the scale determines how much you will weigh, and the software-development techniques you use determine how many errors testing will find.",
 "There is nothing good or bad about knowledge itself; morality lies in the application of knowledge.",
 "Think like a fundamentalist, code like a hacker.",
+"Any application that can be written in JavaScript, will eventually be written in JavaScript.",
 "If you're good at the debugger it means you spent a lot of time debugging. I don't want you to be good at the debugger.",
 "Code without tests is bad code. It doesn't matter how well written it is; it doesn't matter how pretty or object-oriented or well-encapsulated it is. With tests, we can change the behavior of our code quickly and verifiably. Without them, we really don't know if our code is getting better or worse.",
 "Programming is the art of doing one thing at a time",
