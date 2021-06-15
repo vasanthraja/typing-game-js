@@ -32,6 +32,7 @@ let quotes = ["Fools ignore complexity. Pragmatists suffer it. Some can avoid it
 "Everybody in this country should learn to program a computer, because it teaches you how to think",
 "The only way to go fast, is to go well.",
 "I'm a programmer. I like programming. And the best way I've found to have a positive impact on code is to write it.",
+"We don't have to be smarter than the rest. We have to be more disciplined than the rest.",
 "Happiness should be a function without any parameters.",
 "User interface is the process of shifting from chaotic complexity to elegant simplicity.",
 "Everyday life is like programming, I guess. If you love something you can put beauty into it.",
