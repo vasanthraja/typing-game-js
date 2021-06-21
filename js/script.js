@@ -27,6 +27,7 @@ let quotes = ["Fools ignore complexity. Pragmatists suffer it. Some can avoid it
 "Tests shouldn't verify units of code. Instead they should verify units of behavior: something that is meaningful for the problem domain and ideally something that a business person can recognize as useful. The number of classes it takes to implement such a unit of behavior is irrelevant. The unit could span across multiple classes or only one class, or even take up just a tiny method. [...] A test should tell a story about the problem your code helps to share, and this story should be cohesive and meaningful to a non-programmer.",
 "Theory is when you know something, but it doesn't work. Practice is when something works, but you don't know why. Programmers combine theory and practice: Nothing works and they don't know why.",
 "It's not a bug; it's an undocumented feature.",
+"We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons",
 "Code is read more than it is written.",
 "For years, coders have been programming computers so that they perform repetitive tasks for us. Now they automate our repetitive thoughts.",
 "Everybody in this country should learn to program a computer, because it teaches you how to think",
