@@ -71,6 +71,7 @@ let quotes = ["Fools ignore complexity. Pragmatists suffer it. Some can avoid it
 "Code without tests is bad code. It doesn't matter how well written it is; it doesn't matter how pretty or object-oriented or well-encapsulated it is. With tests, we can change the behavior of our code quickly and verifiably. Without them, we really don't know if our code is getting better or worse.",
 "Programming is the art of doing one thing at a time",
 "It is far easier to design a class to be thread-safe than to retrofit it for thread safety later.",
+"Every mischance of life is an opportunity to behave well",
 "Whenever more than one thread accesses a given state variable, and one of them might write to it, they all must coordinate their access to it using synchronization.",
 "I've learned over the past few years that comments should be considered smells."];
 
